@@ -10,13 +10,12 @@ function generatePIN($digits = 4){
 	return $pin;
 }
 
-
-$string = 'philips';
+/*$string = 'philips';
 $num = 500;
 for ($i=0; $i < $num; $i++) { 
 	$digits = generatePIN(4);
 	$cupon = $string.$digits;
 	echo $cupon.'<br>';
-}
+}*/
 
 ?>
